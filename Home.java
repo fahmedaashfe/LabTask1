@@ -1,4 +1,4 @@
-package Example1;
+package Exception1;
 
 	import java.io.File;
 	import java.io.FileNotFoundException;
@@ -19,4 +19,3 @@ package Example1;
 		}
 
 	}
-
